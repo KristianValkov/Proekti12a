@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Surver-Klient", "Surver-Klient\Surver-Klient.csproj", "{98D89289-D2B8-4C51-9EE3-18AFFED1BFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D89289-D2B8-4C51-9EE3-18AFFED1BFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D89289-D2B8-4C51-9EE3-18AFFED1BFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D89289-D2B8-4C51-9EE3-18AFFED1BFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D89289-D2B8-4C51-9EE3-18AFFED1BFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5E32311-EC99-41B7-AEF7-001F725CF390}
+	EndGlobalSection
+EndGlobal
